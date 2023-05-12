@@ -1,3 +1,0 @@
-API_TOKEN = "hKC1wIEt036BABBKoj2yG7o0UGNF9D70";
-
-export default API_TOKEN;
