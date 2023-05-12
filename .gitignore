@@ -2,6 +2,8 @@
 #
 .DS_Store
 
+token.js
+
 # Xcode
 #
 build/
@@ -39,7 +41,6 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
-token.js
 
 # fastlane
 #
