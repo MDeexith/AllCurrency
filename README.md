@@ -10,4 +10,4 @@
 - [Download](https://drive.google.com/file/d/1IdApNKD8UOVSRiCxkhlNkrk5IBVKiyZ2/view?usp=sharing)
 
 # APP Screenshorts
-- [Image-1](https://raw.githubusercontent.com/MDeexith/AllCurrency/master/Screenshot.jpg)\
+- ![Image-1](https://raw.githubusercontent.com/MDeexith/AllCurrency/master/Screenshot.jpg)
